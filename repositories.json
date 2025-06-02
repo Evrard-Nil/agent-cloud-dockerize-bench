@@ -1,0 +1,12 @@
+[
+    {
+        "name": "pr-typo-agent",
+        "url": "https://github.com/PierreLeGuen/pr-typo-agent.git",
+        "tags": ["python", "no-framework"]
+    },
+    {
+        "name": "example-market-news-agent",
+        "url": "https://github.com/Evrard-Nil/example-market-news-agent",
+        "tags": ["python", "no-framework"]
+    }
+]

@@ -33,6 +33,7 @@ The list of repositories include the following tools and frameworks:
  - [ ] Langchain (Notebook)
  - [ ] LlamaIndex (Python script)
  - [ ] LlamaIndex (Notebook)
+ - [ ] AutoGen (Python script)
 
 
 ## Report sample
