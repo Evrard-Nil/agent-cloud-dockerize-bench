@@ -8,5 +8,10 @@
         "name": "example-market-news-agent",
         "url": "https://github.com/Evrard-Nil/example-market-news-agent",
         "tags": ["python", "no-framework"]
+    },
+    {
+        "name": "marathon-times-agent",
+        "url": "https://github.com/Evrard-Nil/marathon-times-agent",
+        "tags": ["python", "langchain", "notebook", "playwright"]  
     }
 ]
