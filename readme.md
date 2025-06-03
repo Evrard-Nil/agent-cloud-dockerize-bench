@@ -29,8 +29,8 @@ auto-dockerizer-benchmark "my-dockerizer build"
 The list of repositories include the following tools and frameworks:
 
  - [X] Python no frameworks
- - [ ] Langchain (Python script)
- - [ ] Langchain (Notebook)
+ - [x] Langchain (Python script)
+ - [x] Langchain (Notebook)
  - [ ] LlamaIndex (Python script)
  - [ ] LlamaIndex (Notebook)
  - [ ] AutoGen (Python script)

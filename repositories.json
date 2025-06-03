@@ -18,5 +18,10 @@
         "name": "example-langchain-calendar-agent",
         "url": "https://github.com/Evrard-Nil/langchain-calendar-agent",
         "tags": ["python", "langchain", "require-files"]
+    },
+    {
+        "url":"https://github.com/Evrard-Nil/vectorstore-langchain-agent",
+        "name": "vectorstore-langchain-agent",
+        "tags": ["python", "langchain", "vectorstore", "notebook"]
     }
 ]
