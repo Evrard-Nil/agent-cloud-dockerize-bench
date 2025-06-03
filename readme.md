@@ -7,7 +7,7 @@ This tool benchmarks an auto-dockerizer's ability to successfully containerize v
 To install the benchmark tool, use `cargo`:
 
 ```bash
-cargo install auto-dockerizer-benchmark
+cargo install --path .
 ```
 
 ## Usage
