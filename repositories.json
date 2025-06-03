@@ -13,5 +13,10 @@
         "name": "marathon-times-agent",
         "url": "https://github.com/Evrard-Nil/marathon-times-agent",
         "tags": ["python", "langchain", "notebook", "playwright"]  
+    },
+    {
+        "name": "example-langchain-calendar-agent",
+        "url": "https://github.com/Evrard-Nil/langchain-calendar-agent",
+        "tags": ["python", "langchain", "require-files"]
     }
 ]
